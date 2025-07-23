@@ -7,7 +7,7 @@ export default function Page() {
         My Portfolio
       </h1>
       <p className="mb-4">
-        {`Hi, my name is Rishi. I'm a Vim enthusiast and tab advocate, finding unmatched efficiency in
+        {`Hi, my name is Rishi. I'm an astrophysicist by background, and what I love doing is building beautiful products for consumers. I'm a Vim enthusiast and tab advocate, finding unmatched efficiency in
         Vim's keystroke commands and tabs' flexibility for personal viewing
         preferences. This extends to my support for static typing, where its
         early error detection ensures cleaner code, and my preference for dark
