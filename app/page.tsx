@@ -13,6 +13,9 @@ export default function Page() {
         early error detection ensures cleaner code, and my preference for dark
         mode, which eases long coding sessions by reducing eye strain.`}
       </p>
+      <h1 className="mb-8 text-2xl font-semibold tracking-tighter">
+        Selected Posts
+      </h1>
       <div className="my-8">
         <BlogPosts />
       </div>
