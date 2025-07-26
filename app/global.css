@@ -1,4 +1,5 @@
 @import 'tailwindcss';
+@import url('https://fonts.googleapis.com/css2?family=Fira+Code:wght@400;500;600;700&display=swap');
 
 ::selection {
   background-color: #47a3f3;
@@ -80,6 +81,11 @@ a:visited * {
 
 #nav a:visited * {
   color: inherit;
+}
+
+/* Site title styling */
+.site-title {
+  font-family: 'Fira Code', monospace;
 }
 
 .prose a {
