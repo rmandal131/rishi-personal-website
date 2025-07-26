@@ -88,6 +88,11 @@ a:visited * {
   font-family: 'Fira Code', monospace;
 }
 
+/* Increase kerning for all H1 titles */
+h1 {
+  letter-spacing: 0.025em;
+}
+
 .prose a {
   @apply underline transition-all decoration-neutral-400 dark:decoration-neutral-600 underline-offset-2 decoration-[0.1em];
   color: rgb(59, 130, 246);
