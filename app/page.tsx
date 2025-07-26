@@ -3,7 +3,7 @@ import { BlogPosts } from 'app/components/posts'
 export default function Page() {
   return (
     <section>
-      <h1 className="mb-8 text-2xl font-semibold tracking-tighter">
+      <h1 className="mb-4 text-2xl font-semibold tracking-tighter">
         About Me
       </h1>
       <p className="mb-8">
@@ -13,7 +13,7 @@ export default function Page() {
         early error detection ensures cleaner code, and my preference for dark
         mode, which eases long coding sessions by reducing eye strain.`}
       </p>
-      <h1 className="mb-8 text-2xl font-semibold tracking-tighter">
+      <h1 className="mb-4 text-2xl font-semibold tracking-tighter">
         Selected Posts
       </h1>
       <div className="my-8">
