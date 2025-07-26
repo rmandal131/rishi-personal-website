@@ -56,6 +56,15 @@ a:visited {
   color: rgb(59, 130, 246);
 }
 
+/* Apply link color to all child elements within links */
+a * {
+  color: inherit;
+}
+
+a:visited * {
+  color: inherit;
+}
+
 .prose a {
   @apply underline transition-all decoration-neutral-400 dark:decoration-neutral-600 underline-offset-2 decoration-[0.1em];
   color: rgb(59, 130, 246);
