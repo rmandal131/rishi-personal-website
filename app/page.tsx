@@ -11,7 +11,7 @@ export default function Page() {
         <li>I've built multiple companies which use machine learning and AI to scale human expertise and good taste</li>
         <li>Currently: Cofounder of Future, where we've scaled 1-on-1 coaching to improve the health of consumers around the world. We're building Future with Tom Brady, and we're backed by Kleiner Perkins, Andreessen Horowitz, Khosla Ventures, and others</li>
         <li>EIR at Khosla Ventures</li>
-        <li>Cofounder of Sosh, a hyper-personalized concierge, acquired by Postmates</li>
+        <li>Cofounder of Sosh, a hyper-personalized concierge, backed by Sequoia Capital and Khosla Ventures, and acquired by Postmates</li>
         <li>Before: Google, Slide, NASA, Stanford University</li>
       </ul>
       <h1 className="mb-4 text-2xl font-semibold tracking-tighter">
