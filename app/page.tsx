@@ -16,7 +16,7 @@ export default function Page() {
       <h1 className="mb-4 text-2xl font-semibold tracking-tighter">
         Selected Posts
       </h1>
-      <div className="my-8">
+      <div className="mb-8">
         <BlogPosts />
       </div>
     </section>
