@@ -4,7 +4,7 @@ export default function Page() {
   return (
     <section>
       <h1 className="mb-8 text-2xl font-semibold tracking-tighter">
-        My Portfolio
+        About Me
       </h1>
       <p className="mb-4">
         {`Hi, my name is Rishi. I'm an astrophysicist by background, and I love building well-considered products for consumers. Lorem ipsum, I'm a Vim enthusiast and tab advocate, finding unmatched efficiency in
