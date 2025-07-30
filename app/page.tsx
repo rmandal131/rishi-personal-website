@@ -4,7 +4,7 @@ export default function Page() {
   return (
     <section>
       <h1 className="mb-4 text-2xl font-semibold tracking-tighter">
-        About Me
+        About
       </h1>
       <ul className="mb-8 list-disc pl-6 space-y-2">
         <li>I'm an astrophysicist by training. I prefer big ideas and hard problems to opportunism</li>

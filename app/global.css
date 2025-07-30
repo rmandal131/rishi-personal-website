@@ -91,6 +91,12 @@ a:visited * {
 /* Increase kerning for all H1 titles */
 h1 {
   letter-spacing: 0.025em;
+  font-size: 22px;
+}
+
+/* Keep nav title at original size (text-2xl = 24px) */
+.site-title {
+  font-size: 1.5rem !important; /* 24px - matches text-2xl */
 }
 
 .prose a {
@@ -139,7 +145,8 @@ h1 {
 }
 
 .prose h1 {
-  @apply text-4xl font-medium tracking-tight mt-6 mb-2;
+  @apply font-medium tracking-tight mt-6 mb-2;
+  font-size: 22px;
 }
 
 .prose h2 {
